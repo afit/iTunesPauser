@@ -1,0 +1,10 @@
+obj\Debug\iTunesPauser.exe
+obj\Debug\iTunesPauser.pdb
+bin\Release\iTunesPauser.exe
+bin\Release\iTunesPauser.pdb
+bin\Release\Interop.iTunesLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\iTunesPauser.Properties.Resources.resources
+obj\Release\iTunesPauser.csproj.GenerateResource.Cache
+obj\Release\iTunesPauser.exe
+obj\Release\iTunesPauser.pdb
