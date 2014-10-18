@@ -8,7 +8,7 @@ The latest Microsoft IntelliType Pro keyboard drivers -- which infuriatingly don
 
 ##Where can I get it?##
 
- * [iTunesPauser 1.0](http://www.reincubate.com/res/labs/iTunesPauser.zip) (18th January 2006)
+ * [iTunesPauser 1.0](https://github.com/afit/iTunesPauser/raw/master/iTunesPauser.exe) (18th January 2006)
  * [GitHub](https://github.com/afit/iTunesPauser)
  
 You'll need the [Microsoft .NET Framework Version 2.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en) installed.
